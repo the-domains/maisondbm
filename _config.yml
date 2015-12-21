@@ -1,6 +1,6 @@
 name: maisondbm
 favicon: null
-layout_spectrum: 0.9915795302949846
+layout_spectrum: 0.48914
 typography_spectrum: 0.3351943565066904
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.20005412446334958
-  lightness: 0.47417813586071134
-  saturation: 0.5069895808119327
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.3335341131314635
 purpose: []
