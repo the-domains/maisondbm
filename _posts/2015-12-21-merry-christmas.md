@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Arthur Rackham - The Night Before Christmas
-datePublished: '2015-12-21T18:01:26.374Z'
-dateModified: '2015-12-21T18:01:14.961Z'
+datePublished: '2015-12-24T13:41:41.474Z'
+dateModified: '2015-12-21T18:02:06.022Z'
 title: "\_ \_ \_ \_ \_ \_ \_Merry Christmas"
 author: []
+sourcePath: _posts/2015-12-21-merry-christmas.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-21-merry-christmas.md
-published: true
 url: merry-christmas/index.html
 _type: Article
 
